@@ -2,4 +2,4 @@ Hello Artifactory and Sonar
 This is my first Trigger
 This is my Second Trigger.
 This is my Third Trigger
-This is my New Trigger
+This is my New Trigger-01
