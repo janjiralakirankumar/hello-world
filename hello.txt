@@ -1,3 +1,4 @@
 Hello Artifactory and Sonar
 Next Trigger
 New Trigger
+Latest Trigger
